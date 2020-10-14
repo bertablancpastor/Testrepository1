@@ -1,1 +1,3 @@
 Estic aprenent a programar per poder fer el curs al It Academy
+
+Estem fent canvis directament a la carpeta perquè es vegi reflectat al master
